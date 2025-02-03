@@ -1,0 +1,9 @@
+101,Introduction to Algorithms,Thomas H. Cormen,A classic guide to algorithms,Available,img/101.jpg
+102,Artificial Intelligence A Modern Approach,Stuart Russell,Standard text for AI studies,Available,img/102.jpg
+103,Operating System Concepts,Greg Gagne,Fundamental principles of operating systems,Available,img/103.png
+104,Database System Concepts,Abraham Silberschatz,Intro to modern database systems,Available,img/104.jpg
+105,Computer Networks,Andrew S. Tanenbaum,Comprehensive guide to networking basics,Available,img/105.jpg
+106,The C Programming Language,Brian W. Kernighan,Classic guide to C programming,Available,img/106.png
+107,Design Patterns,Erich Gamma,A guide to software design patterns,Available,img/107.png
+108,Clean Code,Robert C. Martin,Essential guide to writing clean code,Available,img/108.jpg
+109,The Pragmatic Programmer,Andrew Hunt,A practical guide for programmers,Available,img/109.jpg
